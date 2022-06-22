@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pizza-delivery/static/css/main.464c2ffe.css",
+    "main.js": "/pizza-delivery/static/js/main.c3d0694a.js",
+    "static/media/pizza-logo.svg": "/pizza-delivery/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/pizza-delivery/index.html",
+    "main.464c2ffe.css.map": "/pizza-delivery/static/css/main.464c2ffe.css.map",
+    "main.c3d0694a.js.map": "/pizza-delivery/static/js/main.c3d0694a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464c2ffe.css",
+    "static/js/main.c3d0694a.js"
+  ]
+}
