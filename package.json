@@ -2,7 +2,7 @@
     "name": "react-pizza",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/kostikkras/pizza-delivery",
+    "homepage": "https:///kostikkras.github.io/pizza-delivery",
     "dependencies": {
         "@reduxjs/toolkit": "^1.8.2",
         "@testing-library/jest-dom": "^5.16.4",
